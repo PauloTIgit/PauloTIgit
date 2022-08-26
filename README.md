@@ -1,7 +1,7 @@
 ###Olá! Sou Paulo Ferreira 👋
 
 - 🔭 Trabalho com Front-End.
-- 🌱 Estudo Analise e Desenvolvimento d Sistemas.
+- 🌱 Estudo Analise e Desenvolvimento de Sistemas.
 - 📫 Contacte-me pelo e-mail: pauloferreiradevs@gmail.com
 - 😄 Pronomes: ele/dele.
 
