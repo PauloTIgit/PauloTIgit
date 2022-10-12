@@ -1,8 +1,9 @@
-## Olá! Sou Paulo Ferreira 👋
+## Paulo Ferreira Desenvolvedor Junior 👋
 
 - 🔭 Trabalho com Front-End.
 - 🌱 Estudando react-native.
 - 📫 Contacte-me pelo e-mail: pauloferreiradevs@gmail.com
+- ☕ Portfólio: https://paulodevelop.com.br
 - 😄 Pronomes: ele/dele.
 
 <div align="center">
