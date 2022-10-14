@@ -1,7 +1,8 @@
 ## Desenvolvedor Junior 👋
 
-BR => Meu nome é Paulo Fernando e sou desenvolvedor web. Sou do Brasil e estou disposto a fazer freelance.
-EN => My name is Paulo Fernando and I'm a web developer. I'm from Brazil and I'm willing to do freelancing.
+BR-Meu nome é Paulo Fernando e sou desenvolvedor web. Sou do Brasil e estou disposto a fazer freela nce. </br>
+</br>
+EN My name is Paulo Fernando and I'm a web developer. I'm from Brazil and I'm willing to do freelancing. </br>
 
 - 🔭 Trabalho com Front-End.
 - 🌱 Estudando react-native.
