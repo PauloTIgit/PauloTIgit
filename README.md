@@ -16,6 +16,13 @@ BR - Meu nome é Paulo Fernando e sou desenvolvedor web.</br> Sou do Brasil e es
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=PauloTIgit&theme=xcode&bg_color=151515" alt="Activity Graph" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusfelipeog&theme=dark" alt="Streak Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusfelipeog&layout=compact&theme=dark&locale=en" alt="Techs used in projects" width="495px" />
+</p>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
