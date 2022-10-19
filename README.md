@@ -18,10 +18,10 @@ Meu nome é Paulo Fernando e sou desenvolvedor web.</br> Sou do Brasil e estou d
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusfelipeog&theme=dark" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PauloTIgit&theme=dark" alt="Streak Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusfelipeog&layout=compact&theme=dark&locale=en" alt="Techs used in projects" width="495px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PauloTIgit&layout=compact&theme=dark&locale=en" alt="Techs used in projects" width="495px" />
 </p>
   
 <div style="display: inline_block"><br>
