@@ -1,6 +1,6 @@
 ## Desenvolvedor Junior 👋
 
-BR - Meu nome é Paulo Fernando e sou desenvolvedor web.</br> Sou do Brasil e estou disposto a fazer trabalhar como freelancer e remoto tempo integral. </br>
+Meu nome é Paulo Fernando e sou desenvolvedor web.</br> Sou do Brasil e estou disposto a fazer trabalhar como freelancer e remoto tempo integral. </br>
 </br>
 
 - 🔭 Trabalho com Suporte Técnico.
