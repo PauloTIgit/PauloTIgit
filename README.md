@@ -2,11 +2,9 @@
 
 BR - Meu nome é Paulo Fernando e sou desenvolvedor web.</br> Sou do Brasil e estou disposto a fazer trabalhar como freelancer e remoto tempo integral. </br>
 </br>
-EN - My name is Paulo Fernando and I'm a web developer.</br> I'm from Brazil and I'm willing to work as a freelancer and remote full time. </br>
 
-- 🔭 Trabalho com Front-End.
-- 🌱 Estudando react-native.
-- 📫 Contacte-me pelo e-mail: pauloferreiradevs@gmail.com
+- 🔭 Trabalho com Suporte Técnico.
+- 🌱 Estudando Full Stack Javascript.
 - ☕ Portfólio: https://paulodevelop.com.br
 - 😄 Pronomes: ele/dele.
 
