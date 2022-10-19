@@ -12,6 +12,11 @@ BR - Meu nome é Paulo Fernando e sou desenvolvedor web.</br> Sou do Brasil e es
   <a href="https://github.com/PauloTIgit">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloTIgit&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
 </div>
+  
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=matheusfelipeog&theme=xcode&bg_color=151515" alt="Activity Graph" />
+</p>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
