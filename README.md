@@ -14,7 +14,7 @@ BR - Meu nome é Paulo Fernando e sou desenvolvedor web.</br> Sou do Brasil e es
 </div>
   
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=matheusfelipeog&theme=xcode&bg_color=151515" alt="Activity Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=PauloTIgit&theme=xcode&bg_color=151515" alt="Activity Graph" />
 </p>
   
 <div style="display: inline_block"><br>
