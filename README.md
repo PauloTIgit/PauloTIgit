@@ -10,17 +10,13 @@ Meu nome é Paulo Fernando e sou desenvolvedor web.</br> Sou do Brasil e estou d
 - 😄 Pronomes: ele/dele.
 </br>
 <div align="center">
-  
-<p>
- <a href="https://github.com/PauloTIgit">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloTIgit&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-</p>
-  
+    
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=PauloTIgit&theme=xcode&bg_color=151515" alt="Activity Graph" />
 </p>
 
 <p>
+  <a href="https://github.com/PauloTIgit">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PauloTIgit&theme=dark" alt="Streak Stats" />
 </p>
 <p>
