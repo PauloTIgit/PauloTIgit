@@ -5,6 +5,7 @@ Meu nome é Paulo Fernando e sou desenvolvedor web.</br> Sou do Brasil e estou d
 
 - 🔭 Trabalho com Suporte Técnico.
 - 🌱 Estudando Full Stack Javascript.
+- 💬 Você pode me fazer perguntas, estou aqui para ajudar.
 - ☕ Portfólio: https://paulodevelop.com.br
 - 😄 Pronomes: ele/dele.
 </br>
@@ -28,6 +29,7 @@ Meu nome é Paulo Fernando e sou desenvolvedor web.</br> Sou do Brasil e estou d
 
 </div>  
 <div style="display: inline_block"><br>
+  Você pode me encontrar ou entrar em contato comigo através destas redes:
   <p align="center">
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
