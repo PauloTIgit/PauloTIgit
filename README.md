@@ -7,23 +7,26 @@ Meu nome é Paulo Fernando e sou desenvolvedor web.</br> Sou do Brasil e estou d
 - 🌱 Estudando Full Stack Javascript.
 - ☕ Portfólio: https://paulodevelop.com.br
 - 😄 Pronomes: ele/dele.
-
+</br>
 <div align="center">
-  <a href="https://github.com/PauloTIgit">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloTIgit&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-</div>
+  
+<p>
+ <a href="https://github.com/PauloTIgit">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloTIgit&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+</p>
   
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=PauloTIgit&theme=xcode&bg_color=151515" alt="Activity Graph" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PauloTIgit&theme=dark" alt="Streak Stats" />
 </p>
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PauloTIgit&layout=compact&theme=dark&locale=en" alt="Techs used in projects" width="495px" />
 </p>
-  
+
+</div>  
 <div style="display: inline_block"><br>
   <p align="center">
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
