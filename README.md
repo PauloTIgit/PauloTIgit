@@ -1,4 +1,4 @@
-## Desenvolvedor Junior 👋
+<h2 align="center"> Desenvolvedor Junior 👋 </h2>
 
 Meu nome é Paulo Fernando e sou desenvolvedor web.</br> Sou do Brasil e estou disposto a fazer trabalhar como freelancer e remoto tempo integral. </br>
 </br>
