@@ -6,7 +6,6 @@ Meu nome é Paulo Fernando e sou desenvolvedor web.</br> Sou Freelancer aqui voc
 - 🔭 Trabalho com Suporte Técnico.
 - 🌱 Estudando Full Stack Javascript.
 - 💬 Você pode me fazer perguntas, estou aqui para ajudar.
-- ☕ Portfólio: https://paulodevelop.com.br
 - 😄 Pronomes: ele/dele.
 </br>
 <div align="center">
