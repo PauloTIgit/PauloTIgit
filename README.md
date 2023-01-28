@@ -10,10 +10,7 @@ Meu nome é Paulo Fernando e sou desenvolvedor web.</br> Sou Freelancer aqui voc
 - 😄 Pronomes: ele/dele.
 </br>
 <div align="center">
-    
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=PauloTIgit&theme=xcode&bg_color=151515" alt="Activity Graph" />
-</p>
+
 
 <p>
   <a href="https://github.com/PauloTIgit">
