@@ -1,6 +1,6 @@
 <h2 align="center"> Desenvolvedor Junior 👋 </h2>
 
-Meu nome é Paulo Fernando e sou desenvolvedor web.</br> Sou Freelancer aqui você vai encontrar diversos trabalhos e projetos que pode te ajudar a ter inspiração se quiser alguma ajuda estou a disposição. </br>
+Meu nome é Paulo Fernando e sou desenvolvedor web.</br>
 </br>
 
 - 🔭 Trabalho com Suporte Técnico.
