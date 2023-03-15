@@ -1,6 +1,7 @@
-<h2 align="center"> Desenvolvedor Junior 👋 </h2>
+<h2 align="center"> Olá sou Paulo 👋 </h2>
 
-Meu nome é Paulo Fernando e sou desenvolvedor web.</br>
+<p>Sou desenvolvedor front-end .</p>
+</br>
 </br>
 
 - 🔭 Trabalho com Suporte Técnico.
