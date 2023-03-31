@@ -9,7 +9,7 @@
 </h4>
 
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="0" cellspacing="0" cellpadding="0" align="center">
   <tr>
     <td style="border: 0";>
       <img width="400" src="https://cdna.artstation.com/p/assets/images/images/053/755/244/large/nazib-hamdan-ngoding.jpg?1662976950" />
