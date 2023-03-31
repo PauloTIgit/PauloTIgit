@@ -4,9 +4,8 @@
 </br>
 </br>
 
-- 🔭 Trabalho com Suporte Técnico.
+- 🔭 Trabalho atualmente com Suporte Técnico.
 - 🌱 Estudando Full Stack Javascript.
-- 💬 Você pode me fazer perguntas, estou aqui para ajudar.
 - 😄 Pronomes: ele/dele.
 </br>
 <div align="center">
