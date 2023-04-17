@@ -24,7 +24,7 @@
 
 <div align="center">
   <h4>Selo do Desafio mais um DEV</h4>
-  <img width="250" src="./img/selo.png" />
+  <img width="200" src="./img/selo.png" />
 </div>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PauloTIgit&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PauloTIgit&hide=Html&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PauloTIgit&theme=algolia) |
