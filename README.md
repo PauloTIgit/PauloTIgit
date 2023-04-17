@@ -8,6 +8,7 @@
 
 </h4>
 
+<img width="100" src="https://cdna.artstation.com/p/assets/images/images/053/755/244/large/nazib-hamdan-ngoding.jpg?1662976950" />
 
 <table border="0" cellspacing="0" cellpadding="0" align="center">
   <tr>
