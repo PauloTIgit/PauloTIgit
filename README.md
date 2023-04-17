@@ -23,7 +23,7 @@
 </table>
 
 <div align="center">
-  <h4>Selo do Desafio mais um DEV</h4>
+  <h4>Selos</h4>
   <img width="200" src="./img/selo.png" />
 </div>
 
