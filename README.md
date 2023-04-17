@@ -8,7 +8,7 @@
 
 </h4>
 
-<img width="100" src="./img/celo.png" />
+<img width="100" src="./img/selo.png" />
 
 <table border="0" cellspacing="0" cellpadding="0" align="center">
   <tr>
