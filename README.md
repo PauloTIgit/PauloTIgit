@@ -8,8 +8,6 @@
 
 </h4>
 
-<img width="100" src="./img/selo.png" />
-
 <table border="0" cellspacing="0" cellpadding="0" align="center">
   <tr>
     <td style="border: 0";>
@@ -24,8 +22,15 @@
   </tr>
 </table>
 
+<div align="center">
+  <h4>Selo do Desafio mais um DEV</h4>
+  <img width="250" src="./img/selo.png" />
+</div>
+
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PauloTIgit&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PauloTIgit&hide=Html&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PauloTIgit&theme=algolia) |
 | :-: | :-: | :-: |
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PauloTIgit&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PauloTIgit&theme=algolia&utcOffset=8) |
 | :-: | :-: |
+
+
