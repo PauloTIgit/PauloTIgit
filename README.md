@@ -26,6 +26,7 @@
   <h4>Selos</h4>
   <img width="200" src="./img/selo.png" />
 </div>
+<br>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PauloTIgit&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PauloTIgit&hide=Html&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PauloTIgit&theme=algolia) |
 | :-: | :-: | :-: |
