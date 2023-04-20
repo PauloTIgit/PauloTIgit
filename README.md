@@ -14,18 +14,15 @@
       <img width="400" src="https://cdna.artstation.com/p/assets/images/images/053/755/244/large/nazib-hamdan-ngoding.jpg?1662976950" />
     </td>
     <td style="border: 0";>
-      <h4 align="center">Projetos em destaque</h4>
-      <p>
-        Repositorio modelo de Portfolio <a href="https://github.com/PauloTIgit/Portfolio">Click aqui<a>
-      </p>
+     <div align="center">
+        <h4>Selos</h4>
+        <img width="200" src="./img/selo.png" />
+      </div>
     </td>
   </tr>
 </table>
 
-<div align="center">
-  <h4>Selos</h4>
-  <img width="200" src="./img/selo.png" />
-</div>
+
 <br>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PauloTIgit&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PauloTIgit&hide=Html&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PauloTIgit&theme=algolia) |
