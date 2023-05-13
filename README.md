@@ -15,7 +15,7 @@
     </td>
     <td style="border: 0";>
      <div align="center">
-        <h4>Selos</h4>
+        <h4>Selos / Certificados</h4>
         <img width="200" src="./img/selo.png" />
       </div>
     </td>
