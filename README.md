@@ -1,7 +1,8 @@
 <table border="0" cellspacing="0" cellpadding="0" align="center">
   <tr>
     <td style="border: 0;">
-      <img width="400" src="data/programing.gif" alt="gif criado por vininjr">
+      <img width="400" src="programming.gif" alt="gif criado por vininjr">
+      <p>`creditos para vininjr, criador do gif`</p>
     </td>
     <td style="border: 0;">
      <div align="center">
