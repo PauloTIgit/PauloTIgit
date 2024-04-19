@@ -1,63 +1,42 @@
-<p align="center" >👋 Olá, eu sou o Paulo! Tenho 23 anos e sou apaixonado por desenvolvimento web. Atualmente, estou focado em aprimorar minhas habilidades como desenvolvedor full-stack, buscando sempre aprender e aplicar as mais recentes tecnologias no mundo da web. </p>
-<div >
-  <p align="center">🚀 Sobre Mim:</p>
-  <ul>
-    <li>👨‍💻 Desenvolvedor Web Full-Stack</li>
-    <li>🎓 Formado em Analise de desenvolvimento de Sistema.</li>
-    <li>🌐 Trabalho com uma variedade de tecnologias, incluindo HTML, CSS, JavaScript, PHP e Node.js .</li>
-    <li>💡 Sempre em busca de desafios interessantes para aprimorar minhas habilidades.</li>
-  </ul>
-</div>
-
-<h4 align="center">
-
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulo_fernando000/)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/PauloTIgit)](https://www.linkedin.com/in/pauloferreiradev/)
-[![HackTheBox Badge](https://img.shields.io/badge/Portifolio-52f7fa?style=for-the-badge&logo=Hack%20The%20Box&logoColor=3d0ef0)](https://paulodevelop.com.br/)
-
-</h4>
-
 <table border="0" cellspacing="0" cellpadding="0" align="center">
   <tr>
-    <td style="border: 0";>
-      <img width="400" src="https://cdna.artstation.com/p/assets/images/images/053/755/244/large/nazib-hamdan-ngoding.jpg?1662976950" />
+    <td style="border: 0;">
+      <img width="400" src="data/programing.gif" alt="gif criado por vininjr">
     </td>
-    <td style="border: 0";>
+    <td style="border: 0;">
      <div align="center">
         <h4>Selos / Certificados</h4>
-        <img width="200" src="./img/selo.png" />
+        <img width="200" src="./img/selo.png" alt="Certificados">
       </div>
     </td>
   </tr>
 </table>
+<h1 align="center">Paulo Ferreira</h1>
+<p align="center">
+  <a href="mailto:pauloferreiradevs@gmail.com">
+    <img src="https://img.shields.io/badge/Email-pauloferreira%40paulodevelop.com.br-red?style=for-the-badge&logo=gmail">
+  </a>
+  <br>
+  <a href="https://paulodevelop.com.br/">
+    <img src="https://img.shields.io/badge/Portfolio-paulodevelop.com.br-purple?style=for-the-badge&logo=Hack%20The%20Box&logoColor=3d0ef0">
+  </a>
+  <br>
+  <a href="https://www.linkedin.com/in/pauloferreiradev/">
+    <img src="https://img.shields.io/badge/Linkedin-pauloferreiradev-21a687?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
+  </a>
+</p>
 
-<table  align="center">
-  <tr>
-    <td style="border: 0";>
-      <p>🌱 Atualmente Aprendendo:</p>
-      <ul>
-        <li>TypeScript</li>
-        <li>Laravel</li>
-      </ul>
-    </td>
-    <td style="border: 0";>
-      <p>📫 Como Me Encontrar:</p>
-      <ul>
-        <li>Email - pauloferreiradevs@gmail.com</li>
-        <li>Site - <a target="_blank" href="https://paulodevelop.com.br">paulodevelop.com.br</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<h2>🌱 Projetos / Projects</h2> 
+<p>PT-BR Atualmente  estou trabalhando no projeto de agendamento online e pagamento recorrente, se trata de um repositorio privado para mais detalhes pode me pocurar nas redes a cima!</p>
+<p>EN I'm currently working on the online scheduling and recurring payment project, it's a private repository for more details you can look for me on the networks above!</p>
+<p>ES Actualmente estoy trabajando en el proyecto de programación online y pagos recurrentes, es un repositorio privado para más detalles puedes buscarme en las redes de arriba!</p>
 
+<br>
+<br>
 <p>📊 Estatísticas do GitHub:</p>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PauloTIgit&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PauloTIgit&hide=Html&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PauloTIgit&theme=algolia) |
+| ![Estatísticas](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PauloTIgit&theme=algolia) | ![Linguagens](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PauloTIgit&hide=Html&theme=algolia) | ![Linguagem Mais Utilizada](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PauloTIgit&theme=algolia) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PauloTIgit&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PauloTIgit&theme=algolia&utcOffset=8) |
+| ![Detalhes do Perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PauloTIgit&theme=algolia) | ![Tempo Produtivo](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PauloTIgit&theme=algolia&utcOffset=8) |
 | :-: | :-: |
-
-<p>Estou sempre aberto a colaborações e contribuições. Se você tem um projeto interessante, vamos conversar!</p>
-<p>Obrigado por visitar meu perfil! 👨‍💻✨</p>
-
