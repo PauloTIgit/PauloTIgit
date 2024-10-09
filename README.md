@@ -2,8 +2,6 @@
 
 
 # Welcome! here is Paulo
-<img width="200" src="./img/selo.png" alt="Certificados">
-
 ![](https://komarev.com/ghpvc/?username=PauloTIgit-github-username) <br>
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23323330.svg?style=flat&logo=php&logoColor=%7BB4) ![Composer](https://img.shields.io/badge/composer-white?style=flat&logo=composer&logoColor=722b15) <br>
@@ -14,3 +12,9 @@
 ![Estatísticas](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PauloTIgit&theme=algolia)
 ![Linguagens](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PauloTIgit&hide=Html&theme=algolia) 
 ![Detalhes do Perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PauloTIgit&theme=algolia)
+
+<hr>
+<div style"display: flex;">
+  <img width="200" src="./img/selo.png" alt="Certificados">
+    <img width="200" src="./img/selo.png" alt="Certificados">
+</div>
