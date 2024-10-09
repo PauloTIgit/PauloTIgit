@@ -16,5 +16,4 @@
 <hr>
 <div style"display: flex;">
   <img width="200" src="./img/selo.png" alt="Certificados">
-    <img width="200" src="./img/selo.png" alt="Certificados">
 </div>
